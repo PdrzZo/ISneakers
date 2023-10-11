@@ -31,7 +31,7 @@ Um aplicativo de controle de estoque de tênis de várias marcas projetado para 
 
 
 <h2> Clique na imagem para ter acesso ao projeto:</h2>
-<a href="https://www.youtube.com/watch?v=78AuzBKcoyM"> <img src="https://cdn.discordapp.com/attachments/1081703389819306036/1161785724169895946/image.png?ex=65399045&is=65271b45&hm=8858dcb3995401cf56b3525c69178898bc594ef33b966fb76e3ce3a1ebf6d457&" width=700 height=700 ></a>
+<a href="https://www.youtube.com/watch?v=78AuzBKcoyM"> <img src="https://cdn.discordapp.com/attachments/1081703389819306036/1161785724169895946/image.png?ex=65399045&is=65271b45&hm=8858dcb3995401cf56b3525c69178898bc594ef33b966fb76e3ce3a1ebf6d457&" width=1300 height=700 ></a>
 
 
 
