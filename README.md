@@ -1,10 +1,8 @@
-<h1> Trabalho De Definição De Protótipo</h1>
+<h1> Trabalho De Definição Do Protótipo ISneakers</h1>
 
 Professor: Ricardo Petri
 
-Alunos: Pedro Henrique Salvador Pelisaro
-        Vinnycius Akira Yuhara
-        Miguel Galvão Moreira Da Silva
+Alunos: Pedro Henrique Salvador Pelisaro, Vinnycius Akira Yuhara, Miguel Galvão Moreira Da Silva.
 
 <h2> Escopo do Projeto</h2>
 Um aplicativo de controle de estoque de tênis de várias marcas projetado para uso exclusivo dos funcionários de uma loja tem como objetivo principal simplificar e agilizar as operações internas de gestão de estoque. Esse tipo de aplicativo é crucial para manter o controle eficiente do estoque de uma loja, garantindo que os funcionários possam gerenciar as quantidades disponíveis, tomar decisões informadas sobre reabastecimento e fornecer um serviço mais eficiente aos clientes. Além disso, ajuda a evitar problemas como a falta de produtos populares e o excesso de estoque, contribuindo para a eficiência operacional e a redução de custos.
